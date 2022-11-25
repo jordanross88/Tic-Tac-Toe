@@ -1,3 +1,3 @@
 # Tic-Tac-Toe
 
-Pygame of Tic-TacToe
+Pygame of Tic-Tac-Toe
